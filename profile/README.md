@@ -1,35 +1,49 @@
 # StoriPicha
 
-**Video intelligence for modern streaming platforms.**
+### Video Intelligence for Better Streaming Experiences
 
-StoriPicha builds tools that help video teams understand how viewers experience their streaming products.
+StoriPicha is a technology initiative focused on making video streaming experiences more measurable, understandable, and reliable.
 
-> **Turn video playback telemetry into actionable intelligence.**
+We build technology that helps streaming platforms, media businesses, and digital video teams turn playback data into meaningful insights.
 
-## StoriPicha Insights
+**Understand playback. Improve experiences. Make informed decisions.**
 
-**StoriPicha Insights** is a video intelligence and observability platform for OTT, live streaming, and video-on-demand products.
+---
 
-It transforms playback telemetry into meaningful insights across:
+## Introducing StoriPicha Insights
 
-- Playback performance
-- Quality of Experience (QoE)
-- Buffering and startup performance
-- Playback errors
-- Viewer engagement
-- Content performance
-- Devices and platforms
-- Networks and delivery infrastructure
+**StoriPicha Insights** is our video intelligence and observability platform, designed for modern streaming environments.
 
-## How It Works
+It focuses on helping video teams understand the performance, reliability, and engagement of their streaming experiences.
 
-```text
-Video Player
-     ↓
-StoriPicha SDK
-     ↓
-Playback Telemetry
-     ↓
-StoriPicha Insights
-     ↓
-Playback Intelligence
+### What We Focus On
+
+- **Playback Intelligence** — Understand video playback behavior and performance.
+- **Quality of Experience** — Gain visibility into the factors affecting viewer experiences.
+- **Streaming Reliability** — Identify playback failures, interruptions, and performance challenges.
+- **Audience Engagement** — Explore how viewers interact with video content.
+- **Content Intelligence** — Understand content consumption and performance.
+- **Cross-Platform Visibility** — Build a clearer picture of streaming experiences across devices and environments.
+
+## Our Vision
+
+To make video intelligence accessible, actionable, and valuable for the next generation of streaming platforms.
+
+## Our Mission
+
+To help video businesses make better technical and product decisions through meaningful insights into streaming performance and viewer experiences.
+
+---
+
+### Built with Purpose
+
+We believe better streaming experiences begin with better visibility.
+
+StoriPicha is committed to building dependable, thoughtfully engineered technology that helps video teams focus on what matters most: delivering exceptional viewing experiences.
+
+---
+
+**StoriPicha**  
+*Intelligence behind every stream.*
+
+© StoriPicha. All rights reserved.
